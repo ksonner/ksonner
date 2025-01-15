@@ -3,7 +3,8 @@
 ## I'm Katie Sonner
 
 
-**Here's a little about me
+**Here's a little about me**
+
 * 📘 Computer Science major
 * 💻 I'm currelty teaching myself python
 * 🐶 I have a dog

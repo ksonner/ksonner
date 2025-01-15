@@ -9,7 +9,7 @@
 * 🐶 I have a dog
 * 🏎️ I am really into Formula 1 and watch it in my free time 
 
-### By the end of this smester I will know
+**By the end of this smester I will know:**
 * HTML
 * CSS
 * Java

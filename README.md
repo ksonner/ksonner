@@ -14,5 +14,4 @@
 * CSS
 * Java
 * C
-* Python
 * Assembly

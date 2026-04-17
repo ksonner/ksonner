@@ -1,6 +1,7 @@
 ## :wave: Hi there, I'm Katie Sonner 
-...:mortar_board: Computer Science Student 
-...:bulb: Aspiring Software Developer | Always Learning
+:mortar_board: Computer Science Student 
+
+:bulb: Aspiring Software Developer | Always Learning
 
 ---
 

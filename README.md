@@ -1,9 +1,10 @@
 ## :wave: Hi there, I'm Katie Sonner 
+:mortar_board: Computer Science Student 
 :bulb: Aspiring Software Developer | Always Learning
 
 ---
 
-### About Me
+### :star2: About Me
 * 📘 Computer Science major with a strong interest in data analytics 
 * 🧠 Passionate about learning new techologies and problem-solving
 * 🐶 Dog lover
